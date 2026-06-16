@@ -1,0 +1,6 @@
+{
+  "name": "ONX Target Sportz",
+  "description": "Corporate team building and precision target sports packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
